@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/userx/xvector/build",
+  "command": "/usr/bin/c++  -I/home/userx/xvector/include -g -std=gnu++20 -Wall -Wextra -Werror -o CMakeFiles/app.dir/src/main.cpp.o -c /home/userx/xvector/src/main.cpp",
+  "file": "/home/userx/xvector/src/main.cpp",
+  "output": "CMakeFiles/app.dir/src/main.cpp.o"
+}
+]

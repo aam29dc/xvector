@@ -1,0 +1,3 @@
+/home/userx/xvector/build/CMakeFiles/app.dir
+/home/userx/xvector/build/CMakeFiles/edit_cache.dir
+/home/userx/xvector/build/CMakeFiles/rebuild_cache.dir
