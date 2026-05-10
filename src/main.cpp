@@ -20,6 +20,11 @@ int main() {
   for (auto &val : v) {
     std::cout << val << " ";
   }
+  try {
+    v.at(100);
+  } catch (const std::out_of_range &e) {
+    std::cout << e.what() << "\n";
+  }
 
   return 0;
 }
